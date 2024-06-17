@@ -41,8 +41,9 @@ How to use
 
 * Install Python 3.8 or newer.
 * Install pdfminer.six.
-
+```python
   `pip install pdfminer.six`
+```
 
 * (Optionally) install extra dependencies for extracting images.
 
